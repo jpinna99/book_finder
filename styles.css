@@ -1,0 +1,23 @@
+h1, label, input, button, #bookList {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 4rem;
+}
+
+h1 {
+    display: inline-block;
+    font-weight: 900;
+    font-size: 42px;
+    border: 4mm ridge rgba(0, 0, 0, 0.6);
+    width: auto;
+    border-radius: 15px;
+    padding: 0.25em 0.5em;
+    margin-left: 3rem;
+}
+
+button {
+    margin-left: 1rem;
+}
+
+#bookList {
+    margin-top: 2rem;
+}
